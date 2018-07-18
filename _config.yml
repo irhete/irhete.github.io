@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://irhete.github.io/
-baseurl: "/"
+url: "http://irhete.github.io"
+baseurl: ""
 title: Irene Teinemaa
 author: Irene Teinemaa
 description: Personal page and resume
